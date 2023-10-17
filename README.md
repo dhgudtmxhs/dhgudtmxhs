@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=오형석%20render&fontSize=90)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=오형석%20의 깃허부&fontSize=90)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhgudtmxhs&layout=compact)](https://github.com/dhgudtmxhs/github-readme-stats)
 
