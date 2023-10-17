@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=오형석%20의 깃허부&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=250&section=header&text=형석`s%20github&fontSize=55)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhgudtmxhs&layout=compact)](https://github.com/dhgudtmxhs/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhgudtmxhs&show_icons=true&theme=radical)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhgudtmxhs%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
