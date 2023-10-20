@@ -36,7 +36,8 @@
 <p align="center">
 <a href="mailto:gudtjr1355@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gudtjr1355@gmail.com"/></a>
 <a href="https://www.instagram.com/dhgudtmxhs"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dhgudtmxhs"/></a>
-<a href="https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4"><img src="http://img.shields.io/badge/-Notion-yellow?style=for-the-badge&link=https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4"/></a>
+<a href="https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4">
+    <img src="http://img.shields.io/badge/-Notion-yellow?style=for-the-badge&logo=Notion&link=https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4"/></a>
 </p>
 
 
