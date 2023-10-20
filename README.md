@@ -4,14 +4,13 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
 
-<p>안녕하세요 항상 발전을 목표로 노력하는 신입 개발자 오형석입니다. <br> 주로 Spring 기반 Java 개발을 하고 있습니다.</p>
+<p>안녕하세요 항상 발전을 목표로 노력하는 신입 개발자 오형석입니다. <br> 주로 Spring 기반 Java 개발 공부를 하고 있습니다.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhgudtmxhs&layout=compact)](https://github.com/dhgudtmxhs/github-readme-stats)
 
 ![dhgudtmxhs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhgudtmxhs&show_icons=true&theme=compact)
 
 </div>
-
 
 <h3 style="text-align: center; color: black;">💡 My Skills 💡</h3>
     <img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=openjdk&logoColor=red"/>
@@ -35,14 +34,13 @@
 <h3 style="text-align: center; color: black;">💡 Gmail, Notion 💡</h3>
     
 <a href="mailto:gudtjr1355@gmail.com" style="text-align: center;">
-    <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gudtjr1355@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gudtjr1355@gmail.com">
 </a>
+        
 
-<a href="mailto:[gudtjr1355@gmail.com"](https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4)>
-    <img 
-        src="https://img.shields.io/badge/Notion-yellow?style=flat-square&logo=Notion&logoColor=white&link=mailto:[gudtjr1355@gmail.com](https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4)"
+
+<a href="(https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4)">
+    <img src="https://img.shields.io/badge/Notion-yellow?style=flat-square&logo=Notion&logoColor=white&link(https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4)"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
