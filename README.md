@@ -31,9 +31,15 @@
 
 <h3 style="text-align: center; color: black;">Gmail, Notion</h3>
     
-<a href="mailto:gudtjr1355@gmail.com">
+<a href="mailto:gudtjr1355@gmail.com" style="text-align: center;">
     <img 
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gudtjr1355@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a href="mailto:gudtjr1355@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Notion-yellow?style=flat-square&logo=Notion&logoColor=white&link=mailto:gudtjr1355@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
