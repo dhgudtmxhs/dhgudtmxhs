@@ -31,23 +31,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhgudtmxhs%2Fhit-counter&count_bg=%230F0F0F&title_bg=%23D72121&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3 style="text-align: center; color: black;">
-💡 Gmail : <a href="mailto:gudtjr1355@gmail.com" style="text-align: center; color:black; text-decoration:none; width:100%;"/>
-gudtjr1355@gmail.com</a></h3>
 
-<h3 style="text-align: center; color: black;">💡 Gmail, Notion 💡</h3>
-    
-<h3 align="center"><b>💌 Social 💌 </b></h3>
-</br>
+<h3 align="center"><b>Social 💌 </b></h3>
 <p align="center">
 <a href="mailto:gudtjr1355@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gudtjr1355@gmail.com"/></a>
 <a href="https://www.instagram.com/dhgudtmxhs"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dhgudtmxhs"/></a>
-<a href="https://velog.io/@youhyeoneee"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a>
+<a href="https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4"><img src="http://img.shields.io/badge/-Notion-yellow?style=for-the-badge&link=https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4"/></a>
 </p>
-
-
-
-
 
 
 
