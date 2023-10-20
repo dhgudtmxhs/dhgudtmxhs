@@ -1,3 +1,10 @@
+
+<style>
+    body {
+        color: black;
+    }
+</style>
+
 <div align=center>
     
 ![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2&height=250&section=header&text=형석`s%20github🎨&fontSize=40)
