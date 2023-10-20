@@ -2,17 +2,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2&height=220&section=header&text=형석`s%20github🎨&fontSize=40)
 
-<div>
+<div style="display: flex; justify-content: center; align-items: center;">
 
-<h3 style="text-align: center;">💡 Most Used Languages 💡</h3>
+<p>안녕하세요 항상 발전을 목표로 노력하는 신입 개발자 오형석입니다. <br> 주로 Spring 기반 Java 개발을 하고 있습니다.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhgudtmxhs&layout=compact)](https://github.com/dhgudtmxhs/github-readme-stats)
 
-<h3 style="text-align: center;">💡 Git Stats 💡</h3>
-
 ![dhgudtmxhs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhgudtmxhs&show_icons=true&theme=compact)
-    
+
 </div>
+
 
 <h3 style="text-align: center; color: black;">💡 My Skills 💡</h3>
     <img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=openjdk&logoColor=red"/>
