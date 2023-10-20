@@ -1,19 +1,3 @@
-<!--
-**dhgudtmxhs/dhgudtmxhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div align=center>
     
 ![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2&height=250&section=header&text=형석`s%20github🎨&fontSize=40)
@@ -25,12 +9,6 @@ Here are some ideas to get you started:
 <h3>💡 Git Stats 💡</h3>
 
 ![dhgudtmxhs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhgudtmxhs&show_icons=true&theme=compact)
-
-
-
-    
-
-
 
 <h3>💡 My Skills 💡</h3>
     <img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=openjdk&logoColor=red"/>
