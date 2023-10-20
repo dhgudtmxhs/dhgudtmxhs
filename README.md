@@ -30,5 +30,3 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-shark 얻기
-yolo 얻기
