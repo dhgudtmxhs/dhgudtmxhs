@@ -34,19 +34,11 @@
 
 <h3 align="center">　　Social 🎈</h3>
 <p align="center">
-<a href="mailto:gudtjr1355@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gudtjr1355@gmail.com"/></a>
+<a href="#"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=#"/></a>
 <a href="https://www.instagram.com/dhgudtmxhs"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dhgudtmxhs"/></a>
 <a href="https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4">
     <img src="http://img.shields.io/badge/-Notion-yellow?style=for-the-badge&logo=Notion&link=https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4"/></a>
 </p>
-
-
-
-
-<a href="(https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4)">
-    <img src="https://img.shields.io/badge/Notion-yellow?style=flat-square&logo=Notion&logoColor=white&link=(https://ohstone.notion.site/009f218850204b9bb1cb17501d677e99?pvs=4)"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 
 ![footer](https://capsule-render.vercel.app/api?&type=waving&customColorList=0,2&height=220&section=footer)
