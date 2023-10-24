@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
 
-<p>안녕하세요 항상 발전을 목표로 노력하는 신입 개발자 오형석입니다. <br> Spring 기반의 Java 개발 공부를 하고 있습니다.</p>
+<p>안녕하세요 항상 발전을 목표로 노력하는 신입 개발자 오형석입니다. <br> Spring 기반 Java 개발 공부를 하고 있습니다.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhgudtmxhs&layout=compact)](https://github.com/dhgudtmxhs/github-readme-stats)
 
