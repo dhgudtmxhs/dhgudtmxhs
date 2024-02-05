@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
 
-<p>소개</p>
+<p></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhgudtmxhs&layout=compact)](https://github.com/dhgudtmxhs/github-readme-stats)
 
