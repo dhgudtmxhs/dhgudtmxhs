@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2&height=220&section=header&text=형석`s%20github🎨&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2&height=220&section=header&text=&fontSize=40)
 
 <div style="display: flex; justify-content: center; align-items: center;">
 
