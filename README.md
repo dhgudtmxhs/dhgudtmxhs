@@ -1,9 +1,9 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=40)
+</div>
 
-
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align=center>
 
 <p></p>
 
@@ -13,6 +13,8 @@
 
 </div>
 
+<div align=center>
+  
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhgudtmxhs%2Fhit-counter&count_bg=%230F0F0F&title_bg=%23D72121&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 ![footer](https://capsule-render.vercel.app/api?&type=waving&color=gradient&height=200&section=footer)
