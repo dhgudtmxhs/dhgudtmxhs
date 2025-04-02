@@ -1,6 +1,7 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2&height=220&section=header&text=&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&customColorList=ff0000,0000ff&height=220&section=header&text=&fontSize=40)
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
 
