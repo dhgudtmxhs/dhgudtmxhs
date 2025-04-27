@@ -9,13 +9,10 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhgudtmxhs&layout=compact)](https://github.com/dhgudtmxhs/github-readme-stats)-->
 
-![dhgudtmxhs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhgudtmxhs&show_icons=true&theme=compact)
+<!--![dhgudtmxhs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhgudtmxhs&show_icons=true&theme=compact)-->
 
---
 
-![GitHub stats](https://github-readme-stats-zeta-ashen-25.vercel.app/api?username=dhgudtmxhs&count_private=true&show_icons=true)
-ㅇㅇ
-
+![dhgudtmxhs's GitHub stats](https://github-readme-stats-dhgudtmxhs.vercel.app/api?username=dhgudtmxhs&count_private=true&show_icons=true)
 </div>
 
 <div align=center>
