@@ -5,9 +5,8 @@
 
 <div align=center>
 
-<!--
+
 ![dhgudtmxhs's GitHub stats](https://github-readme-stats-dhgudtmxhs.vercel.app/api?username=dhgudtmxhs&count_private=true&show_icons=true)
--->
 
 
 ![dhgudtmxhs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhgudtmxhs)
