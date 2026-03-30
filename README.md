@@ -4,14 +4,16 @@
 
 </div>
 
-<div align=center>
-
-  <p align="center">
+<div align="center">
+  
   <img
     src="https://github-readme-stats-one-bice.vercel.app/api?username=dhgudtmxhs"
     width="52%"
     alt="Stats"
   />
+  
+  <br />
+  
   <a href="https://github.com/git-goods/gitanimals">
     <img
       src="https://render.gitanimals.org/lines/dhgudtmxhs?pet-id=826351544793280115"
@@ -19,8 +21,7 @@
       alt="quokka leaf"
     />
   </a>
-</p>
-
+  
 </div>
 
 <div align=center>
