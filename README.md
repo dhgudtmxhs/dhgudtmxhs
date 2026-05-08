@@ -13,7 +13,8 @@
   />
   
   <br />
-  
+
+  <!--
   <a href="https://github.com/git-goods/gitanimals">
     <img
       src="https://render.gitanimals.org/lines/dhgudtmxhs?pet-id=826351544793280115"
@@ -21,6 +22,7 @@
       alt="quokka leaf"
     />
   </a>
+  -->
   
 </div>
 
